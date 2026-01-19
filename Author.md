@@ -38,9 +38,9 @@ I am a multidisciplinary professional with a strong background in **Data Science
 ---
 
 ## 🌐 Connect
-- **GitHub:** https://github.com/parmesh-iitkgp
-- **LinkedIn:** https://www.linkedin.com/in/parmesh-iitkgp/  
-- **Email:** parmesh.iitkgp@gmail.com  
+- **GitHub:** https://github.com/parmesh-kumar-ai/
+- **LinkedIn:** https://www.linkedin.com/in/parmesh-kumar-ai/  
+- **Email:** parmesh.kumar.ai@gmail.com  
 
 ---
 
