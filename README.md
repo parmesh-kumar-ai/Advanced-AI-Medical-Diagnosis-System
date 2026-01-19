@@ -109,7 +109,7 @@ An AI-powered healthcare decision-support system built using **R & Shiny** that 
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/parmesh-kumar-ai/AI-Medical-Diagnosis-Shiny-App.git
+git clone https://github.com/parmesh-kumar-ai/Advanced-AI-Medical-Diagnosis-System
 cd AI-Medical-Diagnosis-Shiny-App
 
 ---
