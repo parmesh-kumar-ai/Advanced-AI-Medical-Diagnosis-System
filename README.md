@@ -89,7 +89,7 @@ An AI-powered healthcare decision-support system built using **R & Shiny** that 
 - **Language:** R  
 - **Web Framework:** Shiny  
 - **Machine Learning:** randomForest, caret, e1071  
-- **Visualization:** ggplot2, DT  
+- **Visualization:** ggplot2, DT, ggtext  
 - **OCR & PDF Processing:** tesseract, pdftools, magick  
 - **Text Processing:** stringr  
 
